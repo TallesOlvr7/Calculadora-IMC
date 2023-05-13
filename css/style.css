@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Open+Sans:wght@400;700&display=swap');
+
+.font-padrao{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bg-button{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    color: #212529;
+    font-weight: bold;
+}
+
+.bg-button:hover{
+    background-color: #212529;
+    border: 1px solid white;
+    transition: 0.2s;
+}
+
